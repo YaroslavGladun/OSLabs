@@ -1,0 +1,6 @@
+C:\Users\Prkour228\Desktop\OSLab1\OSLab1\bin\Debug\OSLab1.exe
+C:\Users\Prkour228\Desktop\OSLab1\OSLab1\bin\Debug\OSLab1.pdb
+C:\Users\Prkour228\Desktop\OSLab1\OSLab1\obj\Debug\OSLab1.csprojAssemblyReference.cache
+C:\Users\Prkour228\Desktop\OSLab1\OSLab1\obj\Debug\OSLab1.csproj.CoreCompileInputs.cache
+C:\Users\Prkour228\Desktop\OSLab1\OSLab1\obj\Debug\OSLab1.exe
+C:\Users\Prkour228\Desktop\OSLab1\OSLab1\obj\Debug\OSLab1.pdb
